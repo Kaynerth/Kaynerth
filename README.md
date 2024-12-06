@@ -58,7 +58,7 @@ For the affection for the aesthetics and animation of the characters and scenari
 
 # :closed_book: Most Used Skills :closed_book:
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=kaynerth&langs_count=10&hide_title=true&theme=vision-friendly-dark)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=kaynerth&theme=vision-friendly-dark)
 
 <br>
 
