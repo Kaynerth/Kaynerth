@@ -117,8 +117,8 @@ int main(){
     //Calculo do PIB per Capita na carta 2.
     pibPerCapita2 = (pib2 * 1000000000) / (float) populacao2;
 
-    //Calculo do Super Poder na carta 1.
-    superPoder1 = ((float) populacao1 + area1 + pib1 + (float) pontosTuristicos1 + pibPerCapita1) + 1.0f/densidadePopulacional1;
+    //Calculo do Super Poder na carta 2.
+    superPoder2 = ((float) populacao2 + area2 + pib2 + (float) pontosTuristicos2 + pibPerCapita2) + 1.0f/densidadePopulacional2;
 
     //Atribuição dos resultados em suas devidas variáveis.
     resultadoPopulacao = (populacao1 > populacao2);
