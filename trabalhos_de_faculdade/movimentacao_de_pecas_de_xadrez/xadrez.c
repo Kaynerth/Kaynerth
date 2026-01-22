@@ -83,6 +83,10 @@ int main()
         }
     }
 
+    //Comentário final para que o programa não feche sozinho após os últimos dados serem demonstrados, o que faria com que a janela basicamente só piscasse e já fechasse.
+    printf("\n\nMuito obrigado pela participacao desse processo! Aperte 'Enter' para finalizar o programa!");
+    getchar();
+
     //Finalização do programa.
     return 0;
 }
